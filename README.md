@@ -24,7 +24,7 @@
 * we added music to make the game even more fun!
 
 
-    **so notice there is also a '.wav' resource file**
+    **so notice there is also a `.wav` resource file**
 
 #### Terms we used during decomandation:
    
